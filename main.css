@@ -1,0 +1,27 @@
+html{
+  height: 100%;
+}
+body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#field{
+  border: double red 10px;
+  height: 100%;
+  box-sizing: border-box;
+}
+#ball{
+  font-size: 42px;
+  font-weight: bold;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+#square{
+  font-size: 42px;
+  font-weight: bold;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
